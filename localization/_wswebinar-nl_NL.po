@@ -1,0 +1,1291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebinarSysteem v1.0\n"
+"POT-Creation-Date: 2015-06-29 14:32+0530\n"
+"PO-Revision-Date: 2015-07-15 14:31+0100\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem Vragen"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr "Selecteer webinar om vragen te bekijken"
+
+#: includes/class-webinarsysteem-questions.php:50
+#: includes/class-webinarsysteemattendees.php:60
+#: includes/class-webinarsysteemattendees.php:98
+#: includes/class-webinarsysteemoptions.php:641
+msgid "Name"
+msgstr "Naam"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Question"
+msgstr "Vraag"
+
+#: includes/class-webinarsysteem-questions.php:50 includes/tmp-post.php:164
+#: includes/tmp-registration.php:91
+msgid "Time"
+msgstr "Tijd"
+
+#: includes/class-webinarsysteem.php:268
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:268
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:269 includes/class-webinarsysteem.php:392
+msgid "Webinars"
+msgstr "Webinars"
+
+#: includes/class-webinarsysteem.php:270
+msgid "New webinar"
+msgstr "Nieuw webinar"
+
+#: includes/class-webinarsysteem.php:271
+msgid "Attendee Lists"
+msgstr "Registraties"
+
+#: includes/class-webinarsysteem.php:272
+msgid "Webinar Questions"
+msgstr "Webinar vragen"
+
+#: includes/class-webinarsysteem.php:274
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-webinarsysteem.php:275
+msgid "Go Pro"
+msgstr "Upgraden naar Pro"
+
+#: includes/class-webinarsysteem.php:311 includes/class-webinarsysteem.php:337
+msgid "Questions"
+msgstr "Vragen"
+
+#: includes/class-webinarsysteem.php:316
+msgid "Duplicate this Webinar"
+msgstr "Dit webinar dupliceren"
+
+#: includes/class-webinarsysteem.php:316
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+#: includes/class-webinarsysteem.php:335
+msgid "Views"
+msgstr "Bezoekers"
+
+#: includes/class-webinarsysteem.php:336
+msgid "Registrations"
+msgstr "Registraties"
+
+#: includes/class-webinarsysteem.php:338
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-webinarsysteem.php:393 includes/class-webinarsysteem.php:394
+#: includes/tmp-post.php:161
+msgid "Webinar"
+msgstr "Webinar"
+
+#: includes/class-webinarsysteem.php:395 includes/class-webinarsysteem.php:396
+msgid "Add New Webinar"
+msgstr "Nieuw webinar toevoegen"
+
+#: includes/class-webinarsysteem.php:397
+msgid "New Webinar"
+msgstr "Nieuw webinar"
+
+#: includes/class-webinarsysteem.php:398
+msgid "Edit Webinar"
+msgstr "Webinar bewerken"
+
+#: includes/class-webinarsysteem.php:399
+msgid "View Webinar"
+msgstr "Webinar bekijken"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:17
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:16
+msgid "Hi"
+msgstr "Hi"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:774
+#: includes/templates/template-email-attendee1hr.php:23
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"Het webinar waar jij je voor hebt geregistreerd start binnen een uur. "
+"Onderstaand een link om het webinar bij te wonen."
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:24
+#: includes/templates/template-email-attendee24hr.php:23
+#: includes/templates/template-email-reader.php:18
+msgid "Webinar name:"
+msgstr "Webinar naam:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:25
+#: includes/templates/template-email-attendee24hr.php:24
+#: includes/templates/template-email-reader.php:19
+msgid "Date:"
+msgstr "Datum:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:26
+#: includes/templates/template-email-attendee24hr.php:25
+#: includes/templates/template-email-reader.php:20
+msgid "Time:"
+msgstr "Tijd:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:28
+#: includes/templates/template-email-attendee24hr.php:27
+#: includes/templates/template-email-reader.php:22
+msgid "See you then!"
+msgstr "Tot dan!"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/class-webinarsysteem.php:774 includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee-wbstarted.php:21
+#: includes/templates/template-email-attendee1hr.php:29
+#: includes/templates/template-email-attendee24hr.php:28
+#: includes/templates/template-email-reader.php:23
+msgid "Regards"
+msgstr "Groeten"
+
+#: includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee24hr.php:22
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"Dit is een herinnering voor het webinar van morgen.Onderstaand de details "
+"van het webinar."
+
+#: includes/class-webinarsysteem.php:774
+#: includes/templates/template-email-attendee-wbstarted.php:16
+msgid "We are going live now"
+msgstr "We gaan live!"
+
+#: includes/class-webinarsysteem.php:774 includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:20
+#: includes/templates/template-email-attendee-wbstarted.php:20
+msgid "See you later!"
+msgstr "Tot zo!"
+
+#: includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:18
+#: includes/templates/template-email-attendee-wbstarted.php:18
+msgid "Make sure to join the webinar via this link:"
+msgstr "Zorg ervoor dat je het webinar opent via de volgende link:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem geregistreerden"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Selecteer webinar om geregistreerden te bekijken"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Maak een webinar aan om deze te tonen."
+
+#: includes/class-webinarsysteemattendees.php:61
+#: includes/class-webinarsysteemattendees.php:99
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: includes/class-webinarsysteemattendees.php:62
+#: includes/class-webinarsysteemattendees.php:100
+msgid "Registered Date"
+msgstr "Datum geregistreerd"
+
+#: includes/class-webinarsysteemattendees.php:63
+#: includes/class-webinarsysteemattendees.php:101
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/class-webinarsysteemattendees.php:82
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: includes/class-webinarsysteemattendees.php:92
+msgid "No Attendees :("
+msgstr "(nog) geen registraties"
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:58
+msgid "New Registration"
+msgstr "Nieuwe registratie"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:110
+msgid "Reminder"
+msgstr "Herinnering"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Je bent aangemeld voor het webinar!"
+
+#: includes/class-webinarsysteemmessages.php:147
+msgid "We are live in one hour!"
+msgstr "Over een uur gaan we live!"
+
+#: includes/class-webinarsysteemmessages.php:180
+msgid "We are starting the webinar!"
+msgstr "We gaan starten met het webinar!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "Webinar Replay Link"
+msgstr "Webinar replay link"
+
+#: includes/class-webinarsysteemmessages.php:274
+msgid "Once a minute"
+msgstr "Elke minuut"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Webinar instellingen"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Presentatie"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Webinar URL"
+msgstr "Webinar URL"
+
+#: includes/class-webinarsysteemmetabox.php:63
+#: includes/class-webinarsysteemoptions.php:46
+msgid "General Options"
+msgstr "Algemeen"
+
+#: includes/class-webinarsysteemmetabox.php:64
+msgid "Registration Page"
+msgstr "Registratiepagina"
+
+#: includes/class-webinarsysteemmetabox.php:65
+msgid "Thank You Page"
+msgstr "Bedankpagina"
+
+#: includes/class-webinarsysteemmetabox.php:66
+msgid "Countdown Page"
+msgstr "Aftelpagina"
+
+#: includes/class-webinarsysteemmetabox.php:67
+msgid "Live Page"
+msgstr "Live Pagina"
+
+#: includes/class-webinarsysteemmetabox.php:68
+msgid "Replay Page"
+msgstr "Replay pagina"
+
+#: includes/class-webinarsysteemmetabox.php:388
+msgid "Webinar will be presented by:"
+msgstr "Presentatie webinar door:"
+
+#: includes/class-webinarsysteemmetabox.php:390
+msgid "Separate each by commas"
+msgstr "Meerdere namen? Invoeren en met komma's scheiden"
+
+#: includes/class-webinarsysteemmetabox.php:405
+msgid "Host & Description Box"
+msgstr "Presentator & Informatie box tonen"
+
+#: includes/class-webinarsysteemmetabox.php:409
+#: includes/class-webinarsysteemmetabox.php:482
+#: includes/class-webinarsysteemmetabox.php:499
+#: includes/class-webinarsysteemoptions.php:107
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:13
+#: includes/templates/template-metabox-registerpage.php:54
+#: includes/templates/template-metabox-replaypage.php:13
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:125
+#: includes/templates/template-metabox-thankyoupage.php:140
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: includes/class-webinarsysteemmetabox.php:417
+msgid "Show Host Box"
+msgstr "Presentatie box tonen?"
+
+#: includes/class-webinarsysteemmetabox.php:424
+msgid "Host Title Background color"
+msgstr "Presentatie - Achtergrondkleur titel"
+
+#: includes/class-webinarsysteemmetabox.php:430
+msgid "Host Title Text color"
+msgstr "Presentatie - Titel kleur"
+
+#: includes/class-webinarsysteemmetabox.php:436
+msgid "Host Text color"
+msgstr "Presentatie - Tekstkleur"
+
+#: includes/class-webinarsysteemmetabox.php:444
+msgid "Show Description Box"
+msgstr "Informatie box tonen"
+
+#: includes/class-webinarsysteemmetabox.php:451
+msgid "Description Title Background color"
+msgstr "Omschrijving - Achtergrondkleur titel"
+
+#: includes/class-webinarsysteemmetabox.php:457
+msgid "Description Title Text color"
+msgstr "Omschrijving - Titel kleur"
+
+#: includes/class-webinarsysteemmetabox.php:463
+msgid "Description Text color"
+msgstr "Omschrijving - Tekstkleur"
+
+#: includes/class-webinarsysteemmetabox.php:471
+msgid "Question Box"
+msgstr "Vragenbox"
+
+#: includes/class-webinarsysteemmetabox.php:475
+msgid "Show Question box"
+msgstr "Vragen box tonen?"
+
+#: includes/class-webinarsysteemmetabox.php:488
+#: includes/class-webinarsysteemmetabox.php:518
+msgid "Title Text color"
+msgstr "Titel kleur"
+
+#: includes/class-webinarsysteemmetabox.php:495
+msgid "Incentive Box"
+msgstr "Weggever box"
+
+#: includes/class-webinarsysteemmetabox.php:505
+msgid "Show Incentive Box"
+msgstr "Weggever tonen?"
+
+#: includes/class-webinarsysteemmetabox.php:512
+msgid "Incentive Title"
+msgstr "Titel van weggever"
+
+#: includes/class-webinarsysteemmetabox.php:524
+msgid "Incentive box content"
+msgstr "Weggeef box inhoud"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem instellingen"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "Emails"
+msgstr "E-mails"
+
+#: includes/class-webinarsysteemoptions.php:39
+msgid "System Status"
+msgstr "Systeem Status"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Email options"
+msgstr "E-mail instellingen"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder day before Webinar"
+msgstr "Herinnering dag voor aanvang"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Reminder one hour before Webinar"
+msgstr "Herinnering uur voor aanvang"
+
+#: includes/class-webinarsysteemoptions.php:61
+msgid "Reminder Webinar Starting"
+msgstr "Herinnering webinar begint"
+
+#: includes/class-webinarsysteemoptions.php:62
+msgid "Webinar replay"
+msgstr "Webinar herhaling"
+
+#: includes/class-webinarsysteemoptions.php:67
+msgid "Email Sender Options"
+msgstr "E-mail afzender instellen"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "\"From\" Name"
+msgstr "\"From\" Naam"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "Sender name"
+msgstr "Afzender naam"
+
+#: includes/class-webinarsysteemoptions.php:73
+msgid "\"From\" Email Address"
+msgstr "\"From\" Emailadres"
+
+#: includes/class-webinarsysteemoptions.php:73
+msgid "Sender email"
+msgstr "Afzender e-mail"
+
+#: includes/class-webinarsysteemoptions.php:77
+msgid "Email Template"
+msgstr "E-mail template"
+
+#: includes/class-webinarsysteemoptions.php:81
+msgid "Header Image"
+msgstr "Header afbeelding"
+
+#: includes/class-webinarsysteemoptions.php:85
+msgid "Upload"
+msgstr "Uploaden"
+
+#: includes/class-webinarsysteemoptions.php:91
+msgid "Email Footer Text"
+msgstr "E-mail footer tekst"
+
+#: includes/class-webinarsysteemoptions.php:94
+msgid "Footer Text"
+msgstr "Footer tekst"
+
+#: includes/class-webinarsysteemoptions.php:99
+msgid "Base color"
+msgstr "Basiskleur"
+
+#: includes/class-webinarsysteemoptions.php:115
+msgid "Email Body Background color"
+msgstr "E-mail achtergrondkleur"
+
+#: includes/class-webinarsysteemoptions.php:123
+msgid "Email Body Text color"
+msgstr "E-mail tekstkleur"
+
+#: includes/class-webinarsysteemoptions.php:133
+#: includes/class-webinarsysteemoptions.php:206
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:327
+#: includes/class-webinarsysteemoptions.php:387
+msgid "Reset Default Template"
+msgstr "Reset standaard template"
+
+#: includes/class-webinarsysteemoptions.php:142
+msgid "New Registration Options"
+msgstr "Nieuwe registratie instellingen"
+
+#: includes/class-webinarsysteemoptions.php:145
+msgid "Admin Email Address"
+msgstr "E-mail van beheerder"
+
+#: includes/class-webinarsysteemoptions.php:145
+msgid "Admin email"
+msgstr "E-mail van beheerder"
+
+#: includes/class-webinarsysteemoptions.php:151
+msgid "Reminder day before Webinar "
+msgstr "Herinnering dag voor aanvang"
+
+#: includes/class-webinarsysteemoptions.php:155
+#: includes/class-webinarsysteemoptions.php:219
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:339
+msgid "Enable this reminder?"
+msgstr "Deze herinnering activeren?"
+
+#: includes/class-webinarsysteemoptions.php:163
+#: includes/class-webinarsysteemoptions.php:227
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:347
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: includes/class-webinarsysteemoptions.php:166
+#: includes/class-webinarsysteemoptions.php:230
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:350
+msgid "Email Head"
+msgstr "onderwerp"
+
+#: includes/class-webinarsysteemoptions.php:171
+#: includes/class-webinarsysteemoptions.php:235
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:355
+msgid "Available Shortcodes:"
+msgstr "Beschikbare shortcodes:"
+
+#: includes/class-webinarsysteemoptions.php:179
+#: includes/class-webinarsysteemoptions.php:243
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:363
+#: includes/templates/template-metabox-thankyoupage.php:52
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/class-webinarsysteemoptions.php:196
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:377
+msgid "Your email address"
+msgstr "Je e-mailadres"
+
+#: includes/class-webinarsysteemoptions.php:197
+#: includes/class-webinarsysteemoptions.php:258
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Send Preview"
+msgstr "Stuur voorbeeld"
+
+#: includes/class-webinarsysteemoptions.php:200
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:321
+#: includes/class-webinarsysteemoptions.php:381
+msgid "Add a Webinar to send a preview email."
+msgstr "Maak een webinar aan om een voorbeeld e-mail te versturen."
+
+#: includes/class-webinarsysteemoptions.php:214
+msgid "Reminder one hour before Webinar "
+msgstr "Herinnering uur voor aanvang"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "Herinnering webinar begint"
+
+#: includes/class-webinarsysteemoptions.php:335
+msgid "Send Webinar Replay Link"
+msgstr "Webinar replay link"
+
+#: includes/class-webinarsysteemoptions.php:403
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Graag deze informatie kopiëren en plakken bij het aanmaken van een support "
+"ticket:"
+
+#: includes/class-webinarsysteemoptions.php:406
+msgid "Copy for Support"
+msgstr "Kopiëren voor supportafdeling"
+
+#: includes/class-webinarsysteemoptions.php:407
+msgid "Copied!"
+msgstr "Gekopieerd!"
+
+#: includes/class-webinarsysteemoptions.php:409
+msgid "Get System Report"
+msgstr "Ontvang systeem rapport"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "WordPress Environment"
+msgstr "Wordpress omgeving"
+
+#: includes/class-webinarsysteemoptions.php:419
+msgid "Home URL"
+msgstr "Home URL"
+
+#: includes/class-webinarsysteemoptions.php:427
+msgid "Site URL"
+msgstr "Site URL"
+
+#: includes/class-webinarsysteemoptions.php:435
+msgid "WP Version"
+msgstr "WP Versie"
+
+#: includes/class-webinarsysteemoptions.php:442
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: includes/class-webinarsysteemoptions.php:446
+msgid "WP Debug mode"
+msgstr "WP Debug modus"
+
+#: includes/class-webinarsysteemoptions.php:450
+msgid "Language"
+msgstr "Taal"
+
+#: includes/class-webinarsysteemoptions.php:458
+msgid "Server Environment"
+msgstr "Server omgeving"
+
+#: includes/class-webinarsysteemoptions.php:462
+msgid "Server Info"
+msgstr "Server info"
+
+#: includes/class-webinarsysteemoptions.php:470
+msgid "PHP Version"
+msgstr "PHP Versie"
+
+#: includes/class-webinarsysteemoptions.php:479
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Couldn't determine PHP version because phpversion() doesn't exist."
+
+#: includes/class-webinarsysteemoptions.php:487
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/class-webinarsysteemoptions.php:495
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/class-webinarsysteemoptions.php:503
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Installed"
+
+#: includes/class-webinarsysteemoptions.php:519
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: includes/class-webinarsysteemoptions.php:527
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+#: includes/class-webinarsysteemoptions.php:535
+msgid "Default Timezone"
+msgstr "Default Timezone"
+
+#: includes/class-webinarsysteemoptions.php:596
+msgid "Server Locale"
+msgstr "Server Locale"
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:612
+msgid "Active Plugins("
+msgstr "Actieve Plugins"
+
+#: includes/class-webinarsysteemoptions.php:629
+msgid "by "
+msgstr "door"
+
+#: includes/class-webinarsysteemoptions.php:637
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/class-webinarsysteemoptions.php:645
+msgid "Version"
+msgstr "Versie"
+
+#: includes/class-webinarsysteemoptions.php:649
+msgid "Author URL"
+msgstr "Auteur URL"
+
+#: includes/tmp-closed.php:15 includes/tmp-countdown.php:29
+#: includes/tmp-live.php:16 includes/tmp-post.php:58
+msgid "Powered by WP WebinarSystem"
+msgstr "Mogelijk gemaakt door WP WebinarSystem"
+
+#: includes/tmp-closed.php:51
+msgid "Unfortunately, this webinar is closed."
+msgstr "Helaas, dit webinar is gesloten."
+
+#: includes/tmp-closed.php:54
+msgid "Click here"
+msgstr "Klik hier"
+
+#: includes/tmp-closed.php:54
+msgid "to go to our homepage."
+msgstr "om naar de homepage te gaan"
+
+#: includes/tmp-countdown.php:60
+msgid "will begin in"
+msgstr "zal starten binnen"
+
+#: includes/tmp-countdown.php:61
+msgid "will begin shortly"
+msgstr "gaat binnenkort beginnen"
+
+#: includes/tmp-countdown.php:66
+msgid "will start"
+msgstr "zal starten"
+
+#: includes/tmp-countdown.php:67
+msgid "on"
+msgstr "op"
+
+#: includes/tmp-countdown.php:68
+msgid "at"
+msgstr "om"
+
+#: includes/tmp-countdown.php:72
+msgid "Please come back at this time. Thank you for your patience"
+msgstr ""
+"Kom a.u.b. terug op het tijdstip van het webinar, en refresh je pagina "
+"indien nodig. Dank voor uw geduld."
+
+#: includes/tmp-countdown.php:83
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"Een moment geduld, we starten de uitzending. Deze pagina zal automatisch "
+"vernieuwen..."
+
+#: includes/tmp-live.php:86
+msgid "Information"
+msgstr "Informatie"
+
+#: includes/tmp-live.php:98
+msgid "Ask your question!"
+msgstr "Stel je vraag!"
+
+#: includes/tmp-live.php:102
+msgid "Your name"
+msgstr "Je voornaam"
+
+#: includes/tmp-live.php:105
+msgid "Your email"
+msgstr "Je e-mail"
+
+#: includes/tmp-live.php:108
+msgid "Type your question here.."
+msgstr "Stel je vraag hier.."
+
+#: includes/tmp-live.php:110
+msgid "Ask Question!"
+msgstr "Vraag stellen!"
+
+#: includes/tmp-live.php:114
+msgid "My Questions"
+msgstr "Mijn vragen"
+
+#: includes/tmp-live.php:142
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Er is een fout opgetreden bij het insturen van je vraag. Gaarne controleren "
+"of alle velden correct zijn ingevuld."
+
+#: includes/tmp-live.php:150
+msgid "Please wait.."
+msgstr "Even geduld a.u.b."
+
+#: includes/tmp-post.php:138
+msgid "Here is the webinar URL..."
+msgstr "Dit is de link naar het webinar..."
+
+#: includes/tmp-post.php:144
+msgid ""
+"Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr ""
+"Sla deze link op in je favorieten om toegang te krijgen tot het webinar..."
+
+#: includes/tmp-post.php:154
+msgid "Your Webinar Ticket"
+msgstr "Jouw toegangsbewijs"
+
+#: includes/tmp-post.php:155
+msgid "The Webinar Event Information..."
+msgstr "Details van het webinar"
+
+#: includes/tmp-post.php:162
+msgid "Host"
+msgstr "Presentatie"
+
+#: includes/tmp-post.php:163 includes/tmp-registration.php:90
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Date"
+msgstr "Datum"
+
+#: includes/tmp-post.php:178
+msgid "Webinar Is In Progress..."
+msgstr "Webinar is nu online..."
+
+#: includes/tmp-post.php:181
+#: includes/templates/template-email-attendee-replay.php:19
+#: includes/templates/template-email-attendee-wbstarted.php:19
+#: includes/templates/template-email-attendee1hr.php:27
+#: includes/templates/template-email-attendee24hr.php:26
+#: includes/templates/template-email-reader.php:21
+msgid "Go to Webinar"
+msgstr "Ga naar Webinar"
+
+#: includes/tmp-post.php:184
+msgid "View Webinar Replay"
+msgstr "Bekijk herhaling van Webinar"
+
+#: includes/tmp-post.php:211
+msgid "Add To Your Calendar"
+msgstr "Voeg toe aan je kalender"
+
+#: includes/tmp-post.php:212
+msgid "Remind Yourself Of The Event"
+msgstr "Herinner jezelf aan deze gebeurtenis"
+
+#: includes/tmp-post.php:216
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: includes/tmp-post.php:218
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "No script kiddies please!"
+
+#: includes/tmp-registration.php:58
+msgid "Powered by WebinarSysteem"
+msgstr "Mogelijk gemaakt door WebinarSysteem"
+
+#: includes/tmp-registration.php:127
+msgid "Your Name"
+msgstr "Je Voornaam"
+
+#: includes/tmp-registration.php:131
+msgid "Your Email Address"
+msgstr "Je e-mailadres"
+
+#: includes/tmp-registration.php:133
+msgid "Please enter your email."
+msgstr "Vul a.u.b. je email in."
+
+#: includes/tmp-registration.php:137
+msgid "And, Sign-in"
+msgstr "Aanmelden"
+
+#: includes/tmp-registration.php:140
+msgid "Of course we will handle your data safely."
+msgstr "Uiteraard gaan we veilig met jouw gegevens om."
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Hey"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "heeft zich zojuist aangemeld voor het webinar"
+
+#: includes/templates/template-email-reader.php:17
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Dank voor je registratie, onderstaand tref je de details van het webinar."
+
+#: includes/templates/template-email-reader.php:20
+msgid "hrs"
+msgstr "uur"
+
+#: includes/templates/template-metabox-countdownpage.php:1
+#: includes/templates/template-metabox-livepage.php:1
+#: includes/templates/template-metabox-registerpage.php:1
+#: includes/templates/template-metabox-replaypage.php:1
+#: includes/templates/template-metabox-thankyoupage.php:1
+msgid "Preview Page"
+msgstr "Pagina voorbeeld"
+
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Titel kleur"
+
+#: includes/templates/template-metabox-countdownpage.php:10
+msgid "Tagline color"
+msgstr "Subtitel kleur"
+
+#: includes/templates/template-metabox-countdownpage.php:16
+msgid "Description color"
+msgstr "Omschrijving - Tekstkleur"
+
+#: includes/templates/template-metabox-countdownpage.php:28
+#: includes/templates/template-metabox-livepage.php:19
+#: includes/templates/template-metabox-replaypage.php:19
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Achtergrond afbeelding"
+
+#: includes/templates/template-metabox-countdownpage.php:30
+msgid "Countdown Page Background Image"
+msgstr "Achtergrond van aftelpagina"
+
+#: includes/templates/template-metabox-countdownpage.php:30
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:31
+#: includes/templates/template-metabox-replaypage.php:21
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:45
+msgid "Upload Image"
+msgstr "Afbeelding uploaden"
+
+#: includes/templates/template-metabox-countdownpage.php:35
+msgid "Show countdown timer"
+msgstr "Afteller tonen"
+
+#: includes/templates/template-metabox-generalpage.php:21
+msgid "Webinar starts at"
+msgstr "Webinar begint om"
+
+#: includes/templates/template-metabox-generalpage.php:61
+msgid "Disable registration"
+msgstr "Registratie uitschakelen"
+
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Achtergrond afbeelding bedankpagina"
+
+#: includes/templates/template-metabox-livepage.php:29
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "Webinar type"
+
+#: includes/templates/template-metabox-livepage.php:33
+#: includes/templates/template-metabox-registerpage.php:24
+#: includes/templates/template-metabox-replaypage.php:39
+#: includes/templates/template-metabox-thankyoupage.php:37
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/templates/template-metabox-livepage.php:38
+#: includes/templates/template-metabox-registerpage.php:29
+#: includes/templates/template-metabox-replaypage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:42
+msgid "Video or Image URL"
+msgstr "Video of afbeeldingslink"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:31
+#: includes/templates/template-metabox-replaypage.php:47
+msgid "Registration Page Video Image"
+msgstr "Video / afbeelding van registratiepagina"
+
+#: includes/templates/template-metabox-livepage.php:43
+#: includes/templates/template-metabox-replaypage.php:51
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Youtube Video URL (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr "Youtube Video URL (Bijv: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-livepage.php:44
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr ""
+"URL van afbeelding (Bijv: https://voorbeeld.com/afbeeldingen/de_afbeelding."
+"jpg)"
+
+#: includes/templates/template-metabox-livepage.php:48
+msgid "Video autoplay"
+msgstr "Video automatisch starten"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Achtergrondkleur"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Achtergrond afbeelding"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Achtergrond afbeelding van registratiepagina"
+
+#: includes/templates/template-metabox-registerpage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Content type"
+
+#: includes/templates/template-metabox-registerpage.php:33
+msgid "Provide an image url or a Youtube Video ID"
+msgstr "Plaats hier een afbeeldingslink of Youtube video ID"
+
+#: includes/templates/template-metabox-registerpage.php:40
+msgid "Title Color"
+msgstr "Kleur webinartitel"
+
+#: includes/templates/template-metabox-registerpage.php:45
+msgid "Date/Time Color"
+msgstr "Kleur van datum/tijd"
+
+#: includes/templates/template-metabox-registerpage.php:51
+msgid "Registration Form"
+msgstr "Registratiebox"
+
+#: includes/templates/template-metabox-registerpage.php:59
+#: includes/templates/template-metabox-thankyoupage.php:120
+#: includes/templates/template-metabox-thankyoupage.php:134
+msgid "Border color"
+msgstr "Randkleur"
+
+#: includes/templates/template-metabox-registerpage.php:65
+msgid "Font color"
+msgstr "Tekstkleur"
+
+#: includes/templates/template-metabox-registerpage.php:71
+msgid "Title"
+msgstr "Titel"
+
+#: includes/templates/template-metabox-registerpage.php:77
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/templates/template-metabox-registerpage.php:83
+#: includes/templates/template-metabox-thankyoupage.php:157
+msgid "Button Background color"
+msgstr "Achtergrondkleur knop"
+
+#: includes/templates/template-metabox-registerpage.php:89
+#: includes/templates/template-metabox-thankyoupage.php:163
+msgid "Button Border color"
+msgstr "Randkleur knop"
+
+#: includes/templates/template-metabox-registerpage.php:95
+#: includes/templates/template-metabox-thankyoupage.php:111
+#: includes/templates/template-metabox-thankyoupage.php:151
+msgid "Button Text color"
+msgstr "Tekstkleur button"
+
+#: includes/templates/template-metabox-registerpage.php:101
+msgid "CTA Button Text"
+msgstr "Tekst op aanmeldbutton"
+
+#: includes/templates/template-metabox-registerpage.php:108
+msgid "Description"
+msgstr "Omschrijving"
+
+#: includes/templates/template-metabox-registerpage.php:111
+msgid "Description text color"
+msgstr "Omschrijving - Tekstkleur"
+
+#: includes/templates/template-metabox-registerpage.php:116
+msgid "Description background color"
+msgstr "Omschrijving - Achtergrondkleur"
+
+#: includes/templates/template-metabox-registerpage.php:121
+msgid "Description border color"
+msgstr "Omschrijving - Randkleur"
+
+#: includes/templates/template-metabox-replaypage.php:21
+msgid "Replay Page Background Image"
+msgstr "Achtergrondafbeelding bedankpagina"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay available?"
+msgstr "Herhaling beschikbaar?"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Titel tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Yeah! Je Bent Aangemeld Voor Het Webinar!"
+
+#: includes/templates/template-metabox-thankyoupage.php:45
+msgid "Thanking Page Video Image"
+msgstr "Video / afbeelding van registratiepagina"
+
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Link above Text Color"
+msgstr "Kleur van link boven de tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:60
+msgid "Link below Text Color"
+msgstr "Kleur van link onder de tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:66
+msgid "Ticket"
+msgstr "Ticket"
+
+#: includes/templates/template-metabox-thankyoupage.php:69
+msgid "Border color-1"
+msgstr "Randkleur 1"
+
+#: includes/templates/template-metabox-thankyoupage.php:75
+msgid "Border color-2"
+msgstr "Randkleur 2"
+
+#: includes/templates/template-metabox-thankyoupage.php:81
+msgid "Body Text color"
+msgstr "Tekstkleur ticket"
+
+#: includes/templates/template-metabox-thankyoupage.php:87
+msgid "Body Background color"
+msgstr "Ticket achtergrondkleur"
+
+#: includes/templates/template-metabox-thankyoupage.php:93
+msgid "Header Background color"
+msgstr "Achtergrondkleur bovenkant ticket"
+
+#: includes/templates/template-metabox-thankyoupage.php:99
+msgid "Header Text color"
+msgstr "Tekstkleur bovenkant ticket"
+
+#: includes/templates/template-metabox-thankyoupage.php:105
+msgid "Button color"
+msgstr "Kleur van button"
+
+#: includes/templates/template-metabox-thankyoupage.php:117
+msgid "Social Sharing"
+msgstr "Delen op sociale netwerken"
+
+#: includes/templates/template-metabox-thankyoupage.php:131
+msgid "Calendar"
+msgstr "Kalender"
+
+#: includes/templates/template-metabox-thankyoupage.php:146
+msgid "Text color"
+msgstr "Ticket - Tekstkleur"
+
+#~ msgid ""
+#~ "Your license for WebinarSysteem is seems to be Invalid. Please contact "
+#~ "support desk!"
+#~ msgstr ""
+#~ "Je WebinarSysteem licentie is ongeldig, neem contact op met de "
+#~ "supportafdeling!"
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has suspended! Please contact the support."
+#~ msgstr ""
+#~ "Je WebinarSysteem licentie is geblokkeerd, neem contact op met de "
+#~ "supportafdeling!"
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has expired! Please renew it again before "
+#~ "using the plugin."
+#~ msgstr ""
+#~ "Je WebinarSysteem licentie is verlopen, verleng je licentie om de laatste "
+#~ "versie en support te ontvangen!"
+
+#~ msgid "Please enter your license key to activate WebinarSysteem plugin!"
+#~ msgstr "Graag licentiesleutel invoeren om WebinarSysteem te activeren!"
+
+#~ msgid ""
+#~ "Invalid MailChimp API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "Onjuiste MailChimp API sleutel. Ga naar de <a href=\"%s\">WebinarSysteem "
+#~ "instellingen</a> om dit aan te passen."
+
+#~ msgid ""
+#~ "Invalid Enormail API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "Onjuiste Enormail API sleutel. Ga naar de <a href=\"%s\">WebinarSysteem "
+#~ "instellingen</a> om dit aan te passen."
+
+#~ msgid "Invalid api key!"
+#~ msgstr "Ongeldige API sleutel!"
+
+#~ msgid "Mailinglist"
+#~ msgstr "Mailinglijst"
+
+#~ msgid "Default mail provider"
+#~ msgstr "Mailinglist provider"
+
+#~ msgid "Mailchimp list"
+#~ msgstr "Mailchimp lijst"
+
+#~ msgid "You've no mailing list(s) on MailChimp."
+#~ msgstr "Je hebt (nog) geen mailinglijsten in Mailchimp."
+
+#~ msgid "Mailpoet list"
+#~ msgstr "Mailpoet lijst"
+
+#~ msgid "Enormail list"
+#~ msgstr "Enormail lijst"
+
+#~ msgid "You've no mailing list(s) on Enormail."
+#~ msgstr "Je hebt (nog) geen mailinglijsten in Enormail."
+
+#~ msgid "Select a list.."
+#~ msgstr "Selecteer een lijst"
+
+#~ msgid "Mailinglist providers"
+#~ msgstr "Mailinglist providers"
+
+#~ msgid "License Key"
+#~ msgstr "Licentiesleutel"
+
+#~ msgid "Your copy of WebinarSysteem is Active."
+#~ msgstr "Jouw WebinarSysteem licentie is actief"
+
+#~ msgid ""
+#~ "Your copy of WebinarSysteem is not activated. Please activate your copy "
+#~ "to receive updates and access our 24x7 support desk."
+#~ msgstr ""
+#~ "Jouw WebinarSysteem licentie is niet geactiveerd. Stel je licentie in om "
+#~ "automatische updates te ontvangen en toegang te krijgen tot onze "
+#~ "supportafdeling."
+
+#~ msgid "MailChimp API Key"
+#~ msgstr "Mailchimp API sleutel"
+
+#~ msgid "The API key you have received from MailChimp"
+#~ msgstr "Plak hier de API sleutel van Mailchimp"
+
+#~ msgid "Enormail API Key"
+#~ msgstr "Enormail API sleutel"
+
+#~ msgid "The API key you have received from Enormail"
+#~ msgstr "Plak hier de API sleutel van Enormail"
+
+#~ msgid "Registration Form Font color"
+#~ msgstr "Registratiebox tekstkleur"
+
+#~ msgid "Registration Form Title"
+#~ msgstr "Registratiebox titel"
+
+#~ msgid "Registration Form Button Background color"
+#~ msgstr "Registratiebutton - achtergrondkleur"
+
+#~ msgid "Registration Form Button Border color"
+#~ msgstr "Registratiebutton - kleur van rand"
+
+#~ msgid "Presentator"
+#~ msgstr "Presentatie"
+
+#~ msgid "Host:"
+#~ msgstr "Presentatie:"
+
+#~ msgid "Thank you message Video or Image URL"
+#~ msgstr "Bedank video of afbeelding"
+
+#~ msgid "Thankyou Message Image"
+#~ msgstr "Bedankpagina afbeelding"
+
+#~ msgid ""
+#~ "Please wait. This page will automatically load the webinar when it goes "
+#~ "live."
+#~ msgstr ""
+#~ "Even geduld alstublieft. Deze pagina zal automatisch vernieuwen zodra het "
+#~ "webinar live gaat."
+
+#~ msgid "Autoresponder code"
+#~ msgstr "Autoresponder code"
+
+#~ msgid "Please refresh the page now."
+#~ msgstr "Refresh nu je pagina!"
+
+#~ msgid "Register form title"
+#~ msgstr "Titel van registratieformulier"
