@@ -49,5 +49,4 @@ Please find our FAQ section on the [plugin homepage](http://wpwebinarsystem.com)
 == Changelog ==
 
 = 1.0 =
-
 * First release
