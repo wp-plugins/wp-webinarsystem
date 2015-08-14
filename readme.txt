@@ -25,7 +25,8 @@ The plugin is available in the English and the Dutch language.
 
 For documentation please go to our website: [wpwebinarsystem.com](http://wpwebinarsystem.com/documentation)
 
-**Features:**
+= Features =
+
 * Organize live webinars (with Google Hangouts on Air, Youtube or Vimeo as a source)
 * Customize the styling of every webinar page
 * Responsive / mobile friendly webinar pages 
@@ -40,22 +41,25 @@ For documentation please go to our website: [wpwebinarsystem.com](http://wpwebin
 * Have a replay available for registrants that missed out on the webinar
 * Absolutely no ads! 
 * Works with any theme
+
 & more features will be added on a regular base!
 
-**There is also a Pro version available, which adds new features and integrations like:**
-* automated recorded webinars (pro version)
-* recurring / evergreen webinars (pro version)
+= There is also a Pro version available, which adds new features and integrations like: =
+
+* Automated recorded webinars (pro version)
+* Recurring / evergreen webinars (pro version)
 * Live chat during live webinar (pro version)
 * Integration with Mailchimp (pro version)
 * Integration with Aweber (pro version)
 * Integration with Mailpoet (pro version)
 * Integration with Enormail (pro version)
 * Import & Export your webinar settings
+
 & more integrations are on its way!
 
 You can find more information on the Pro version on our website: www.wpwebinarsystem.com
 
-**Currently WP WebinarSystem comes in the following languages:**
+= Currently WP WebinarSystem comes in the following languages: =
 * English
 * Dutch
 
